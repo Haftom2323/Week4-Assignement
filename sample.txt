@@ -1,0 +1,8 @@
+Hello, this is a sample text file.
+It contains multiple lines of text.
+We'll use this to test our file processor.
+
+Notice how this text will be converted to uppercase
+when processed by our program.
+
+Have fun testing!
